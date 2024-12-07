@@ -1,6 +1,6 @@
 """HANDTRACKING 1ST PROJECT
  BY :   S6R
- IG: https://www.instagram.com/exoocian/
+ IG: https://www.instagram.com/rzz.57_/
  """
 
 
